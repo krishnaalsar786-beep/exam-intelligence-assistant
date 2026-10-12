@@ -1,0 +1,2 @@
+# Only needed if you want to read PDF papers. Plain .txt papers need nothing.
+pypdf

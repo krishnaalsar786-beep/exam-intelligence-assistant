@@ -1,0 +1,37 @@
+{
+  "subject": "Basic Electrical Engineering",
+  "topics": [
+    {
+      "topic": "DC Circuits and Network Theorems",
+      "keywords": ["kirchhoff", "kcl", "kvl", "thevenin", "norton", "superposition", "maximum power transfer", "mesh analysis", "nodal analysis", "resistor", "source", "branch current", "norton equivalent", "thevenin equivalent", "load current", "equivalent resistance"]
+    },
+    {
+      "topic": "Single Phase AC Circuits",
+      "keywords": ["ac circuit", "rlc", "series rl", "impedance", "phasor", "power factor", "resonance", "reactive power", "active power", "power triangle", "inductance", "capacitance", "frequency", "rms"]
+    },
+    {
+      "topic": "Three Phase Circuits",
+      "keywords": ["three phase", "star connected", "delta connected", "line voltage", "phase voltage", "line current", "balanced load", "two wattmeter", "wattmeter", "phase sequence"]
+    },
+    {
+      "topic": "Magnetic Circuits",
+      "keywords": ["magnetic circuit", "reluctance", "mmf", "flux", "hysteresis", "eddy current", "permeability", "core loss", "electric circuit comparison"]
+    },
+    {
+      "topic": "Transformers",
+      "keywords": ["transformer", "primary", "secondary", "turns ratio", "open circuit test", "short circuit test", "voltage regulation", "efficiency", "equivalent circuit", "kva", "emf equation", "single phase transformer"]
+    },
+    {
+      "topic": "DC Machines",
+      "keywords": ["dc motor", "dc generator", "back emf", "torque equation", "shunt motor", "series motor", "armature", "field winding", "commutator", "speed control"]
+    },
+    {
+      "topic": "Induction Motors",
+      "keywords": ["induction motor", "slip", "rotating magnetic field", "rotor", "stator", "synchronous speed", "torque slip"]
+    },
+    {
+      "topic": "Electrical Safety and Wiring",
+      "keywords": ["earthing", "mcb", "fuse", "elcb", "earth leakage", "electric shock", "safety", "wiring", "circuit breaker"]
+    }
+  ]
+}

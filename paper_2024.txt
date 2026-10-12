@@ -1,0 +1,14 @@
+SAMPLE PAPER (synthetic, for demo only) - Basic Electrical Engineering - 2024
+Time allowed: 3 hours
+Maximum marks: 57
+
+Q1. Find the Norton equivalent of the network and the load current for a 50 ohm load. [8]
+Q2. A series RL circuit with 20 ohm resistance and 0.1 H inductance is connected to a 230 V 50 Hz supply.
+Calculate impedance, current and power factor. [7]
+Q3. Explain how a rotating magnetic field is produced in a three phase winding. [7]
+Q4. Derive the condition for maximum efficiency of a transformer. [8]
+Q5. Calculate the voltage regulation of a single phase transformer from its equivalent circuit parameters
+at 0.8 lagging power factor. [8]
+Q6. Explain speed control methods of a DC shunt motor and derive the torque equation. [8]
+Q7. Explain earthing and different types of electric shock hazards and safety devices. [5]
+Q8. Explain the two wattmeter method for measuring three phase power. [6]

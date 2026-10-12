@@ -1,0 +1,15 @@
+SAMPLE PAPER (synthetic, for demo only) - Basic Electrical Engineering - 2023
+Time allowed: 3 hours
+Maximum marks: 55
+
+Q1. State and prove maximum power transfer theorem. [7]
+Q2. Calculate the current in each branch using superposition theorem for the circuit with 12 V and 6 V
+sources. [8]
+Q3. Explain resonance in series RLC circuit and derive the resonant frequency. [8]
+Q4. Derive the relation between line and phase voltage and current in a delta connected three phase
+system. [7]
+Q5. A 20 kVA 2000/200 V transformer gave the following test results: open circuit test and short circuit
+test. Calculate the efficiency at full load. [8]
+Q6. Explain the working of a three phase induction motor and define slip. [7]
+Q7. Describe the function of a fuse, MCB and earthing for electrical safety. [5]
+Q8. Compare magnetic circuit with electric circuit and define reluctance and mmf. [5]

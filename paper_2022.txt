@@ -1,0 +1,15 @@
+SAMPLE PAPER (synthetic, for demo only) - Basic Electrical Engineering - 2022
+Time allowed: 3 hours
+Maximum marks: 54
+
+Q1. State and explain Kirchhoff's current law and voltage law with examples. [5]
+Q2. Using Thevenin's theorem, find the current through the 10 ohm resistor in the given network when the
+source is 24 V. [8]
+Q3. Derive the expression for impedance, current and power factor of a series R-L-C circuit. [8]
+Q4. A balanced three phase star connected load takes 10 A at 400 V line voltage with 0.8 power factor.
+Calculate the total power. [7]
+Q5. Derive the emf equation of a single phase transformer. [8]
+Q6. Explain the working principle of a DC motor and the signifi-
+cance of back emf. [7]
+Q7. Explain the construction and working of an MCB and describe earthing. [6]
+Q8. Differentiate between hysteresis loss and eddy current loss in a magnetic circuit. [5]

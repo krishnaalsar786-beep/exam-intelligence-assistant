@@ -1,0 +1,14 @@
+SAMPLE PAPER (synthetic, for demo only) - Basic Electrical Engineering - 2025
+Time allowed: 3 hours
+Maximum marks: 57
+
+Q1. State Kirchhoff laws and solve mesh analysis for the given circuit with 10 V and 5 V sources. [7]
+Q2. Define power factor, active power and reactive power and draw the power triangle. [6]
+Q3. Explain the construction of a transformer and derive its emf equation. [8]
+Q4. A 10 kVA 1100/110 V single phase transformer has the following parameters. Calculate regulation and
+efficiency at half load. [8]
+Q5. Explain the working of an induction motor and derive the torque slip relation. [8]
+Q6. Describe the types of DC generators and derive the emf equation of a DC generator. [8]
+Q7. Compare MCB, fuse and earth leakage circuit breaker. [5]
+Q8. A balanced delta connected load of 15 ohm per phase is connected to a 415 V three phase supply.
+Calculate line current and power. [7]
